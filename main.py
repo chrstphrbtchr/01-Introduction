@@ -7,9 +7,9 @@ utils.clear()
 
 print('Hello, my name is Christopher Butcher!')
 import random
-gamez = ['Earthbound','Super Mario World','Fallout 4','Borderlands 2','Horizon Zero Dawn']
+gamez = ['Earthbound','Mother 3','Until Dawn','The Legend of Zelda: A Link to the Past','Castlevania: Symphony of the Night', 'Super Mario World','Fallout 4','Borderlands 2','Horizon Zero Dawn']
 favgame = random.choice(gamez)
-print('My favorite game is', favgame,', but this is a difficult question so that will change.')
+print('My favorite game is',favgame, ', but this will change if you ask me again.')
 print('I am slightly concerned about keeping up with learning these new languages and concepts.')
 print('However, I am excited to learn and to be surrounded by those who can help me!')
 print('I enjoy performing and writing music, mostly for myself and my dog.')
